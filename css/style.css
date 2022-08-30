@@ -56,6 +56,7 @@ body{
     font-size: 6px;
     padding: 3px 5px;
     border-radius: 6px;
+    margin-left: 5px;
 }
 
 /* Etichette varie */
@@ -138,7 +139,10 @@ body{
 /* Container List */
 .container-list{
     background-color: #fff;
+    padding-bottom: 15px;
     margin-top: 2px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 ul{
