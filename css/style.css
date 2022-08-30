@@ -4,3 +4,31 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* COMMON */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eeeeee;
+}
+
+
+
+/* HEADER */
+/* Container logo */
+.logo{
+    background-color: #fff;
+    padding: 15px;
+}
+
+/* Immagine logo */
+.logo img{
+    width: 70px;
+    vertical-align: middle;
+}
+
+/* Nome logo */
+.logo span{
+    font-size: 50px;
+    font-weight: 700;
+    vertical-align: middle;
+}
