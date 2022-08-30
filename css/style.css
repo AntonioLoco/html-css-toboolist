@@ -11,6 +11,12 @@ body{
     background-color: #eeeeee;
 }
 
+.container{
+    background-color: #fff;
+    width: 70%;
+    margin: 30px auto;
+}
+
 
 
 /* HEADER */
@@ -32,3 +38,31 @@ body{
     font-weight: 700;
     vertical-align: middle;
 }
+
+/* MAIN */
+
+/* Container button */
+.container-button{
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+.container-button button{
+    font-size: 7px;
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+}
+
+#task-button{
+    color: #fff;
+    background-color: #47adf1;
+}
+
+#section-button{
+    color: #d1d5d9;
+    background-color: #fff;
+    border: .5px solid #d1d5d9;
+}
+
